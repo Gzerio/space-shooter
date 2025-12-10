@@ -2,8 +2,11 @@
 
 Um jogo de nave espacial estilo arcade desenvolvido inteiramente em **Assembly x64** para Windows!
 
-![Gameplay](src/img/CAPTURA.PNG)
-![Gameplay 2](src/img/CAPTURA1.PNG)
+<p align="center">
+  <img src="https://github.com/Gzerio/space-shooter/blob/main/src/img/Capturar.PNG" width="45%" />
+  <img src="https://github.com/Gzerio/space-shooter/blob/main/src/img/Capturar1.PNG" width="45%" />
+</p>
+
 
 ## 📖 Sobre o Jogo
 
